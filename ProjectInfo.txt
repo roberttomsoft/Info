@@ -6,3 +6,5 @@ Koristi: c++
 2. Meni na main formi
 
 5. test 1. dodavanja
+
+rad na ticketu T:200100
