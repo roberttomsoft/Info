@@ -4,3 +4,5 @@ Koristi: c++
 
 1. Dodati main formu
 2. Meni na main formi
+
+5. test 1. dodavanja
